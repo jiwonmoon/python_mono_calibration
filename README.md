@@ -3,9 +3,9 @@
 input: 56(front)
 
 - **K, d 계산**
-**1. mono camea capture 				<camera_write.py>**
-**2. calbration					<camera_calibration.py>**
-**3. save K, d					<camera_calibratin.py>**
+ **1. mono camea capture 				<camera_write.py>**
+ **2. calbration					<camera_calibration.py>**
+ **3. save K, d					<camera_calibratin.py>**
 
 - stereo [R|t] 계산 (using K,d)
 1. stereo camera capture				<stereo_write.py>
